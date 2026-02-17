@@ -1,5 +1,3 @@
 # Documentation
 
-* Installation
-* Mise en place
-* Commit
+Exercice dans le cadre d'une formation DWWM
